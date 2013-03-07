@@ -1,6 +1,7 @@
     require 'tlsmail'  
     require 'time'  
-      
+    
+  //commented ect..  
       
     Net::SMTP.enable_tls(OpenSSL::SSL::VERIFY_NONE)  
 
